@@ -7,4 +7,3 @@ A criação desse eBook tem apenas fins didáticos.
 As IAs utilizadas foram o ChatGPT da OpenAI e o Image Creator da Microsoft. Era para ter tido uso do MidJourney, porém, o mesmo não estava aceitando requisições de forma gratuita, então ajustes foram necessários.
 
 Agradeço a DIO pela oportunidade de desenvolver tal projeto. E agradeço as IAs por serem ferramentas tão úteis.
-![image](https://github.com/pedrotescaro/ebook/assets/133606054/81f5dda5-68b6-4c7c-9a59-95950331178d)
